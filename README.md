@@ -34,16 +34,16 @@ This project contains the schematic and PCB design for a Blinky Board. The circu
 
 ## Bill of Materials (BOM)
 
-| Component | Qty | Value |
-|-----------|----:|-------|
-| Red LEDs | 13 | 5.0 mm |
-| 555 Timer | 1 | ICM7555 |
-| Capacitor | 1 | 10k |
-| Resistor | 2 | 330 ohm |
-| Button/Switch | 2 | Push Button Switch |
-| Battery | 1 | 9V |
-| Wire | 1 | 0.6 mm |
-| Solder | 1 | Solder Wire |
+| Component | Qty | Value | Link |
+|---|---:|---|---|
+| Red LEDs | 13 | 5.0 mm | [Amazon](https://www.amazon.in/Self-White-Green-Yellow-Blue/dp/B0H55YYDLB/ref=sr_1_37?dib=eyJ2IjoiMSJ9.7NVeX0dixZ2cO7MW2oFZwBjvHwBzve1nDh9DZQJEhfdf7wvSMmxQX7gwJ07GlyFRvEgj7NonCyrxQ1j_sHc5IjwQQnj4ESkWuRUxtFUj9MST360svU3ZWMOBh20rHAXtEpOArRubmDhe70zKwzqcLUcXN5ECuwdqNHMO3eEhdS9yHtyWlEETA-yEzkvJ3Kh8g8j5Wodu5I54HEg3yDblh8HKqcVGniHC32BU_oeqoZmplrGYHU-vCcU5xWELi7fJZTz4J1UpIJLYh22ifOsYDr7q4GHcc87JQYNbmW5Jhmw.bx_0yLArR9mWQvjRlPQ95FaA6l6IdoidUjmKXb7rWkg&dib_tag=se&keywords=5mm+led+light&qid=1788680801&sr=8-37) |
+| 555 Timer | 1 | ICM7555 | [DigiKey](LINK) |
+| Capacitor | 1 | 10k | [Amazon](LINK) |
+| Resistor | 2 | 330 ohm | [Amazon](https://www.amazon.in/Lalitha-resistor-kit-box-value/dp/B0D9LH4RD8) |
+| Button/Switch | 2 | Push Button Switch | [Amazon](LINK) |
+| Battery | 1 | 9V | [Amazon](LINK) |
+| Wire | 1 | 0.6 mm | [Amazon](LINK) |
+| Solder | 1 | Solder Wire | [Amazon](LINK) |
 
 𝓦𝓱𝔂 𝓘 𝓶𝓪𝓭𝓮 𝓽𝓱𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽
 
